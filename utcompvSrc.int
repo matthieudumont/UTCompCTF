@@ -1,0 +1,6 @@
+[Public]
+Object=(Name=utcomvSrc.MutUTComp,Class=Class,MetaClass=Engine.Mutator,Description="CTF UTCOMP!")
+
+[RealCTF]
+GameName="Enhanced Capture the Flag"
+Description="CTF enhanced for competition."
